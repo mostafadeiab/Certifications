@@ -1,0 +1,36 @@
+[submodule "Responsive-Web-Design-Certification"]
+	path = Responsive-Web-Design-Certification
+	url = https://github.com/mostafadeiab/Responsive-Web-Design-Certification.git
+[submodule "JavaScript-Algorithms-and-Data-Structures-Certification"]
+	path = JavaScript-Algorithms-and-Data-Structures-Certification
+	url = https://github.com/mostafadeiab/JavaScript-Algorithms-and-Data-Structures-Certification.git
+[submodule "Front-End-Development-Libraries-Certification"]
+	path = Front-End-Development-Libraries-Certification
+	url = https://github.com/mostafadeiab/Front-End-Development-Libraries-Certification.git
+[submodule "Data-Visualization-Certification"]
+	path = Data-Visualization-Certification
+	url = https://github.com/mostafadeiab/Data-Visualization-Certification.git
+[submodule "Relational-Database-Certification"]
+	path = Relational-Database-Certification
+	url = https://github.com/mostafadeiab/Relational-Database-Certification.git
+[submodule "Back-End-Development-and-APIs-Certification"]
+	path = Back-End-Development-and-APIs-Certification
+	url = https://github.com/mostafadeiab/Back-End-Development-and-APIs-Certification.git
+[submodule "Quality-Assurance-Certification"]
+	path = Quality-Assurance-Certification
+	url = https://github.com/mostafadeiab/Quality-Assurance-Certification.git
+[submodule "Scientific-Computing-with-Python-Certification"]
+	path = Scientific-Computing-with-Python-Certification
+	url = https://github.com/mostafadeiab/Scientific-Computing-with-Python-Certification.git
+[submodule "Data-Analysis-with-Python-Certification"]
+	path = Data-Analysis-with-Python-Certification
+	url = https://github.com/mostafadeiab/Data-Analysis-with-Python-Certification.git
+[submodule "Information-Security-Certification"]
+	path = Information-Security-Certification
+	url = https://github.com/mostafadeiab/Information-Security-Certification.git
+[submodule "Machine-Learning-with-Python-Certification"]
+	path = Machine-Learning-with-Python-Certification
+	url = https://github.com/mostafadeiab/Machine-Learning-with-Python-Certification
+[submodule "College-Algebra-with-Python-Certification"]
+	path = College-Algebra-with-Python-Certification
+	url = https://github.com/mostafadeiab/College-Algebra-with-Python-Certification.git
