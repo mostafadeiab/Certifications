@@ -34,3 +34,6 @@
 [submodule "College-Algebra-with-Python-Certification"]
 	path = College-Algebra-with-Python-Certification
 	url = https://github.com/mostafadeiab/College-Algebra-with-Python-Certification.git
+[submodule "Foundational-C-with-Microsoft"]
+	path = Foundational-C-with-Microsoft
+	url = https://github.com/mostafadeiab/Foundational-C-with-Microsoft
